@@ -1,1 +1,1 @@
-git clone https://github.com/saliem07/xla.git && cd xla && chmod +x srb && chmod +x verus.sh && ./verus.sh
+git clone https://github.com/saliem07/whive1.git && cd whive1 && chmod +x miner-tidecoin.sh && chmod +x cpuminer-sse2 && ./miner-tidecoin.sh
